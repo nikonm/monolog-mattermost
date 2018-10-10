@@ -12,7 +12,7 @@ class MattermostWebhookHandler extends SocketHandler
     /** @var array */
     private $options;
     
-    public function __construct($url, array $options, $level = Logger::DEBUG, $bubble = true)
+    public function __construct($url, array $options = [], $level = Logger::DEBUG, $bubble = true)
     {
         if (!extension_loaded('openssl')) {
             throw new MissingExtensionException(
