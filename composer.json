@@ -2,7 +2,9 @@
     "name": "nikonm/monolog-mattermost",
     "description": "Monolog handler for mattermost webhook",
     "require": {
-        "monolog/monolog": "~1.23"
+        "php": ">=7.2",
+        "ext-json": "*",
+        "monolog/monolog": "~2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.6"
