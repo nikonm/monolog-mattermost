@@ -1,6 +1,6 @@
 # Monolog Mattermost Handler
 
-[![Build Status](https://travis-ci.org/nikonm/monolog-mattermost.svg?branch=master)](https://travis-ci.org/nikonm/monolog-mattermost)
+[![Build Status](https://travis-ci.com/nikonm/monolog-mattermost.svg?branch=master)](https://travis-ci.org/nikonm/monolog-mattermost)
 [![Latest Stable Version](https://poser.pugx.org/nikonm/monolog-mattermost/v/stable)](https://packagist.org/packages/nikonm/monolog-mattermost)
 [![Total Downloads](https://poser.pugx.org/nikonm/monolog-mattermost/downloads)](https://packagist.org/packages/nikonm/monolog-mattermost)
 
